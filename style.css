@@ -1,0 +1,12 @@
+#mobile{
+    border: 4px solid black ;
+    border-radius:5px ;
+    width: 400px;
+    height:700px;
+    padding:2px
+}
+body{
+    margin-top: 3cm;
+    margin-left: 20cm;
+}
+ul
