@@ -3,10 +3,34 @@
     border-radius:5px ;
     width: 400px;
     height:700px;
-    padding:2px
+    margin: auto ;
+
 }
 body{
-    margin-top: 3cm;
-    margin-left: 20cm;
+    
 }
-ul
+ul{
+    list-style-type: none;
+    padding: 0;
+    
+    
+}
+li{
+    text-align: center;
+    display: inline;
+    padding: 22px;
+    font-size: 20px !important;
+    
+}
+span{
+    margin-top: 16cm;
+    padding: 1px;
+    
+}
+
+
+.material-symbols-outlined {
+    font-size: 30px;
+   
+
+}
